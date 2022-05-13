@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ali-Feyzi
-- 👀UI / django
+- 👀 UI / django
 - 🌱 software engineer student
 
 
